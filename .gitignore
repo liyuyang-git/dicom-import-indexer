@@ -1,0 +1,12 @@
+bin/
+obj/
+.vs/
+TestResults/
+*.user
+*.suo
+*.[dD][cC][mM]
+*.[dD][iI][cC][oO][mM]
+*.[iI][mM][aA]
+*.log
+samples/
+data/

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Learning-conding.csproj" />
+  <Project Path="tests/Learning-conding.Tests.csproj" />
+</Solution>
