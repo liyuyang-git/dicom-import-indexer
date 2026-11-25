@@ -23,3 +23,8 @@ dotnet test Learning-conding.slnx
 `DicomDirectoryImporter` 负责解析和索引，`Program.cs` 负责命令行参数和显示。xUnit 测试在临时目录生成合成样本，验证重复、跨序列及跨检查冲突，还有无效文件后的继续导入。
 
 本项目用于学习 DICOM 导入，不用于诊断或治疗。测试数据在运行时生成。
+
+## 学习示例
+
+- D01：目录导入和 DICOM 实例索引，代码和 xUnit 测试见根目录。
+- D02：[CT 像素示例和练习](exercises/D02/README.md)，使用已解码的合成像素字，练习有效位、有符号补码及 HU 换算。
