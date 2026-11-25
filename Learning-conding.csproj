@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="fo-dicom" Version="5.2.6" />
-    <Compile Remove="tests/**/*.cs;examples/**/*.cs;exercises/**/*.cs" />
+    <Compile Remove="tests/**/*.cs;examples/**/*.cs;exercises/**/*.cs;dicom-course/**/*.cs" />
   </ItemGroup>
 
 </Project>
